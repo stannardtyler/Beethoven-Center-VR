@@ -2,3 +2,23 @@ body{
 	width: 50%;
 	margin: 10px 50px;
 }
+
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: gold;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
